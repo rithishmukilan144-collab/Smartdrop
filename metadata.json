@@ -1,0 +1,6 @@
+{
+  "name": "SmartDrip - Campus Tap Leak Detection System",
+  "description": "AI-powered IoT tap leak detection system for campus washrooms using Isolation Forest and YF-S201 flow sensor simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
